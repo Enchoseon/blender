@@ -19,7 +19,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${mantle}80"
             text="#${text}"
             >
@@ -29,7 +29,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${text}ff"
             text="#${text}"
             >
@@ -39,7 +39,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${mantle}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${text}b3"
             text="#${text}"
             >
@@ -49,7 +49,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             text="#${text}"
             >
           </ThemeWidgetColors>
@@ -58,7 +58,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${mantle}ff"
-            item="#${rosewater}ff"
+            item="#${accent}ff"
             text="#${text}"
             text_sel="#${text}"
             >
@@ -68,7 +68,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             text="#${text}"
             text_sel="#${text}"
             >
@@ -78,7 +78,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             text="#${text}"
             >
           </ThemeWidgetColors>
@@ -87,7 +87,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            item="#${rosewater}ff"
+            item="#${accent}ff"
             text="#${text}"
             text_sel="#${text}"
             >
@@ -97,7 +97,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${surface0}ff"
-            item="#${rosewater}ff"
+            item="#${accent}ff"
             text="#${text}"
             text_sel="#${text}"
             >
@@ -117,7 +117,7 @@
           <ThemeWidgetColors
             outline="#${base}"
             inner="#${mantle}ff"
-            inner_sel="#${rosewater}b3"
+            inner_sel="#${accent}b3"
             item="#${subtext1}ff"
             text="#${text}"
             >
@@ -126,14 +126,14 @@
         <wcol_pulldown>
           <ThemeWidgetColors
             outline="#${base}"
-            inner_sel="#${rosewater}b3"
+            inner_sel="#${accent}b3"
             text="#${subtext1}"
             >
           </ThemeWidgetColors>
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${subtext1}ff"
             text="#${subtext0}"
             >
@@ -141,7 +141,7 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${surface0}ff"
             text="#${subtext1}"
             >
@@ -150,7 +150,7 @@
         <wcol_tooltip>
           <ThemeWidgetColors
             inner="#${mantle}ff"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${subtext1}ff"
             text="#${subtext1}"
             >
@@ -159,7 +159,7 @@
         <wcol_menu_item>
           <ThemeWidgetColors
             outline="#${base}"
-            inner_sel="#${rosewater}ff"
+            inner_sel="#${accent}ff"
             item="#${text}8f"
             text="#${subtext1}"
             >
@@ -178,15 +178,15 @@
         <wcol_progress>
           <ThemeWidgetColors
             outline="#${base}"
-            inner_sel="#${rosewater}ff"
-            item="#${rosewater}ff"
+            inner_sel="#${accent}ff"
+            item="#${accent}ff"
             text="#${text}"
             >
           </ThemeWidgetColors>
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            item="#${rosewater}ff"
+            item="#${accent}ff"
             text="#${subtext1}"
             text_sel="#${text}"
             >
@@ -195,8 +195,8 @@
         <wcol_view_item>
           <ThemeWidgetColors
             inner="#${mantle}ff"
-            inner_sel="#${rosewater}ff"
-            item="#${rosewater}ff"
+            inner_sel="#${accent}ff"
+            item="#${accent}ff"
             text="#${subtext1}"
             >
           </ThemeWidgetColors>
@@ -228,7 +228,7 @@
         editmesh_active="#${text}33"
         bone_locked_weight="#${red}80"
         transform="#${text}"
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         >
         <space>
           <ThemeSpaceGradient
@@ -268,7 +268,7 @@
     </view_3d>
     <graph_editor>
       <ThemeGraphEditor
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         time_marker_line="#${text}4d"
         time_marker_line_selected="#${text}b3"
         vertex_active="#${text}"
@@ -313,7 +313,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#${rosewater}"
+        selected_file="#${accent}"
         row_alternate="#${text}04"
         >
         <space>
@@ -349,7 +349,7 @@
     <nla_editor>
       <ThemeNLAEditor
         nla_track="#${mantle}"
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         time_marker_line="#${text}4d"
         time_marker_line_selected="#${text}b3"
         >
@@ -392,7 +392,7 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         time_scrub_background="#${mantle}ff"
         time_marker_line="#${text}4d"
         time_marker_line_selected="#${text}b3"
@@ -441,7 +441,7 @@
         face="#${text}0a"
         editmesh_active="#${text}40"
         preview_stitch_unstitchable="#${red}ff"
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         metadatatext="#${text}"
         >
         <space>
@@ -478,7 +478,7 @@
       <ThemeSequenceEditor
         grid="#${mantle}"
         active_strip="#${subtext1}"
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         time_marker_line="#${text}4d"
         time_marker_line_selected="#${text}b3"
         metadatatext="#${text}"
@@ -523,8 +523,8 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#${rosewater}"
-        active_modifier="#${rosewater}ff"
+        match="#${accent}"
+        active_modifier="#${accent}ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -782,7 +782,7 @@
       <ThemeClipEditor
         active_marker="#${text}"
         path_before="#${red}"
-        frame_current="#${rosewater}"
+        frame_current="#${accent}"
         time_marker_line="#${text}4d"
         time_marker_line_selected="#${text}b3"
         strips="#${text}"
