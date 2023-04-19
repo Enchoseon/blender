@@ -12,6 +12,8 @@ def create_mapping(accent):
         '232323': cat('crust'),
         'ffffff': cat('text'),
 
+        '690420': cat('crust'),
+
         # text
         'e6e6e6': cat('text'),
         'd9d9d9': cat('subtext1'),
