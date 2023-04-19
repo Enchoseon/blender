@@ -65,7 +65,7 @@ def create_mapping(accent):
 
 
 # Only the darker ones look OK
-supported_accent_colors = ['mauve', 'red', 'green', 'sapphire']
+supported_accent_colors = [ 'rosewater', 'flamingo', 'pink', 'mauve', 'red', 'maroon', 'peach', 'yellow', 'green', 'teal', 'sky', 'sapphire', 'blue', 'lavender' ]
 
 for name, flavour in (
     ('Latte', Flavour.latte()),

@@ -35,7 +35,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#ccd0daff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#e6e9ef80"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -50,7 +50,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#ccd0daff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#4c4f69ff"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -65,7 +65,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#e6e9efff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#4c4f69b3"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -80,7 +80,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#ccd0daff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#252525ff"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -96,7 +96,7 @@
             outline="#eff1f5"
             inner="#e6e9efff"
             inner_sel="#dce0e8ff"
-            item="#40a02bff"
+            item="#7287fdff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
@@ -110,7 +110,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#ccd0daff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#11111b"
             text="#4c4f69"
             text_sel="#4c4f69"
@@ -125,7 +125,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#ccd0daff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#252525ff"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -141,7 +141,7 @@
             outline="#eff1f5"
             inner="#ccd0daff"
             inner_sel="#222222ff"
-            item="#40a02bff"
+            item="#7287fdff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
@@ -156,7 +156,7 @@
             outline="#eff1f5"
             inner="#ccd0daff"
             inner_sel="#222222ff"
-            item="#40a02bff"
+            item="#7287fdff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
@@ -185,7 +185,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#e6e9efff"
-            inner_sel="#40a02bb3"
+            inner_sel="#7287fdb3"
             item="#5c5f77ff"
             text="#4c4f69"
             text_sel="#dce0e8"
@@ -200,7 +200,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#22222266"
-            inner_sel="#40a02bb3"
+            inner_sel="#7287fdb3"
             item="#727272ff"
             text="#5c5f77"
             text_sel="#dce0e8"
@@ -215,7 +215,7 @@
           <ThemeWidgetColors
             outline="#242424"
             inner="#dce0e8ff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#5c5f77ff"
             text="#6c6f85"
             text_sel="#dce0e8"
@@ -230,7 +230,7 @@
           <ThemeWidgetColors
             outline="#242424"
             inner="#dce0e8ff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#ccd0daff"
             text="#5c5f77"
             text_sel="#dce0e8"
@@ -245,7 +245,7 @@
           <ThemeWidgetColors
             outline="#242424"
             inner="#e6e9efff"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#5c5f77ff"
             text="#5c5f77"
             text_sel="#dce0e8"
@@ -260,7 +260,7 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#dce0e800"
-            inner_sel="#40a02bff"
+            inner_sel="#7287fdff"
             item="#4c4f698f"
             text="#5c5f77"
             text_sel="#dce0e8"
@@ -290,8 +290,8 @@
           <ThemeWidgetColors
             outline="#eff1f5"
             inner="#222222ff"
-            inner_sel="#40a02bff"
-            item="#40a02bff"
+            inner_sel="#7287fdff"
+            item="#7287fdff"
             text="#4c4f69"
             text_sel="#dce0e8"
             show_shaded="FALSE"
@@ -306,7 +306,7 @@
             outline="#2d2d2d"
             inner="#2d2d2d00"
             inner_sel="#484a4fff"
-            item="#40a02bff"
+            item="#7287fdff"
             text="#5c5f77"
             text_sel="#4c4f69"
             show_shaded="FALSE"
@@ -320,8 +320,8 @@
           <ThemeWidgetColors
             outline="#2d2d2d"
             inner="#e6e9efff"
-            inner_sel="#40a02bff"
-            item="#40a02bff"
+            inner_sel="#7287fdff"
+            item="#7287fdff"
             text="#5c5f77"
             text_sel="#dce0e8"
             show_shaded="FALSE"
@@ -433,7 +433,7 @@
         skin_root="#b44d4d"
         view_overlay="#dce0e8"
         transform="#4c4f69"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         paint_curve_handle="#7fff7f7f"
         paint_curve_pivot="#ff7f7f7f"
         outline_width="1"
@@ -481,7 +481,7 @@
     <graph_editor>
       <ThemeGraphEditor
         grid="#1a1a1a"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         time_scrub_background="#161616ff"
         time_marker_line="#4c4f694d"
         time_marker_line_selected="#4c4f69b3"
@@ -556,7 +556,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#40a02b"
+        selected_file="#7287fd"
         row_alternate="#4c4f6904"
         >
         <space>
@@ -612,7 +612,7 @@
         tweak_duplicate="#d90000"
         keyframe_border="#dce0e8ff"
         keyframe_border_selected="#dce0e8ff"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         time_scrub_background="#161616ff"
         time_marker_line="#4c4f694d"
         time_marker_line_selected="#4c4f69b3"
@@ -661,7 +661,7 @@
     <dopesheet_editor>
       <ThemeDopeSheet
         grid="#161616"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         time_scrub_background="#e6e9efff"
         time_marker_line="#4c4f694d"
         time_marker_line_selected="#4c4f69b3"
@@ -760,7 +760,7 @@
         preview_stitch_unstitchable="#d20f39ff"
         preview_stitch_active="#e1d2c323"
         uv_shadow="#707070ff"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         metadatabg="#dce0e8"
         metadatatext="#4c4f69"
         handle_free="#dce0e8"
@@ -825,7 +825,7 @@
         text_strip="#824c8f"
         active_strip="#5c5f77"
         selected_strip="#ff8f0d"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         time_scrub_background="#121212ff"
         time_marker_line="#4c4f694d"
         time_marker_line_selected="#4c4f69b3"
@@ -880,8 +880,8 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#40a02b"
-        active_modifier="#40a02bff"
+        match="#7287fd"
+        active_modifier="#7287fdff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1214,7 +1214,7 @@
         path_after="#0000ff"
         path_keyframe_before="#ffc4c4"
         path_keyframe_after="#c4c4ff"
-        frame_current="#40a02b"
+        frame_current="#7287fd"
         time_scrub_background="#dce0e8ff"
         time_marker_line="#4c4f694d"
         time_marker_line_selected="#4c4f69b3"
